@@ -1,1 +1,1 @@
-<img src="./puff.gif" alt="Deepthi" width ="100%">
+<img src="./puff.gif" alt="Deepthi" width ="50%">
